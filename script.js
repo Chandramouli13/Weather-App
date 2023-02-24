@@ -1,6 +1,6 @@
-const apiKey = "b5b20bddae3935c3cbff5c83c0f3daa9";
+const apiKey = "ENTER YOUR APIKEY";
 
-// Example : https://api.openweathermap.org/data/2.5/weather?q=denver&appid=b5b20bddae3935c3cbff5c83c0f3daa9
+// Example : https://api.openweathermap.org/data/2.5/weather?q=denver&appid=apikey
 
 const main = document.getElementById('main');
 const form = document.getElementById('form');
